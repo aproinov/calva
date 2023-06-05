@@ -76,6 +76,5 @@ Kamu bisa klik tombol 'Simpan' jika sudah selesai. Selain itu, kamu juga bisa ba
 
 Referensi artikel:
 
-- `Alfa ITB <https://blogs.itb.ac.id/members/linea-alfa/>`_
-- `Sound of Text on UNS <https://civitas.uns.ac.id/angginiaelsa/sound-of-text/>`_
+- `Fitur Voice Spice <https://www.autobild.co.id/2023/06/review-fitur-dan-cara-pakai-voice-spice.html>`_
 - `Dokumentasi nada dering suara Google <https://taichi.readthedocs.io/>`_
